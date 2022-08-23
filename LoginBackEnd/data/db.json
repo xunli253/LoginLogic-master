@@ -1,0 +1,15 @@
+{
+  "user": [
+    {
+      "name": "Lee",
+      "password": "$2b$07$STcj9U.LTS3M4Tq8udedmeKK5bhNK0MnOs87DZB2jVWlecTFcHIwy",
+      "id": 1
+    }
+  ],
+  "bcrypt": [
+    {
+      "saltRounds": 7,
+      "id": 1
+    }
+  ]
+}
